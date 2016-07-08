@@ -74,10 +74,17 @@ ul {
   width: 100%;
   margin-top: -2em;
 }
+
 /* Contact -------------------------------------------------- */
 /*#contact {
   background-image: url('images/section.jpg');
 }*/
+.contact_info img {
+  width: 20%;
+  height: auto;
+  
+
+}
 .contact_info ul li {
   font-size: 2em;
 }
